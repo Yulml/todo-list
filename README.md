@@ -38,3 +38,20 @@ Add additional notes to deploy this on a live system
   - [Contributor Covenant](https://www.contributor-covenant.org/) - Used for the Code of Conduct
   - [Creative Commons](https://creativecommons.org/) - Used to choose
     the license
+
+## Authors
+
+  - **Programmer A** - *Provided README template* - 
+  - [Profile A](https://github.com/Yulml/Yulml)
+  - **Programmer B** - *Provided README template* -
+  - [Profile B](https://github.com/cod3spac3Academy)
+
+See also the list of
+    [contributors](https://github.com/Yulml/todo-list/graphs/contributors)
+who participated in this project
+
+## License
+
+This project is licensed under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Creative Commons License - See the [License.md](https://github.com/ShuttleworthFoundation/shuttleworthfoundation.org/blob/master/LICENSE.md) file for details.
