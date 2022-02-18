@@ -2,7 +2,7 @@
 
 One paragraph of the project description
 
-You can find more information by visiting the [Codespace](https://codespaceacademy.com) repository.# 
+You can find more information by visiting the [Codespace](https://codespaceacademy.com) repository. 
 
 ## Getting Started
 
@@ -14,3 +14,27 @@ Requirements for the software and other tools to build, test and push
 
 - [Example 1](https://www.codespaceacademy.com)
 - [Example 2](https://www.codespaceacademy.com)
+
+### Installing
+
+A step by step series of examples that tell you how to get a development environment running
+
+Say what the step will be
+
+    Give the example
+
+And repeat
+
+    until finished
+
+End with an example of getting some data out of the system or using it for a little demo
+
+## Deployment
+
+Add additional notes to deploy this on a live system
+
+## Built With
+
+  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used for the Code of Conduct
+  - [Creative Commons](https://creativecommons.org/) - Used to choose
+    the license
