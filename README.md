@@ -42,7 +42,7 @@ Add additional notes to deploy this on a live system
 ## Authors
 
   - **Programmer A** - *Provided README template* - 
-  - [Profile A](https://github.com/Yulml/Yulml)
+  - [Profile A](https://github.com/Yulml)
   - **Programmer B** - *Provided README template* -
   - [Profile B](https://github.com/cod3spac3Academy)
 
